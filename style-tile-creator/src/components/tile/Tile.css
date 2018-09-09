@@ -1,0 +1,4 @@
+.tile{margin:20px auto; background-color:#fff; color:#242222; width:80%; box-shadow: 0px 0px 15px #000; padding:20px;}
+.swatchCon {
+    display: inline-block;
+}
